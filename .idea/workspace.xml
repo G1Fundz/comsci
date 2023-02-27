@@ -6,22 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d82b19c-42ce-4d4c-ba37-02f89ebbbede" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final Comp Sci IA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BMICalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BMIGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MealPrep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stopwatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkoutCreator.java" afterDir="false" />
-    </list>
+    <list default="true" id="7d82b19c-42ce-4d4c-ba37-02f89ebbbede" name="Changes" comment="jar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672661955994</updated>
     </task>
+    <task id="LOCAL-00001" summary="jar">
+      <created>1677505609361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677505609361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="jar" />
   </component>
 </project>
